@@ -27,8 +27,8 @@ Okey this is my definition for noobs:
 3. configuring git
 
     - **Global credentials config of git**
-    - git config --global user.name "Your github name"
-    - git config --global user.email "yourgithubemail@gmail.com"
+        - git config --global user.name "Your github name"
+        - git config --global user.email "yourgithubemail@gmail.com"
 
 **Finally what we came for :sob:**
 
